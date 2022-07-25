@@ -7,7 +7,7 @@
 Una colección es un modo de agrupar objetos o ítems que pueden ser homogéneos o no.
 
 ## Interfaz Colletion:
-Es la interfaz raíz de la jerarquía de interfaces. Forma parte del Collection Framework, ***un conjunto de interfaces y clases que representan distintos modos de agrupar objetos***, según distintas políticas de manejo de memoria o acceso a ellos.
+Es la interfaz raíz de la jerarquía de interfaces. Forma parte del Collection Framework, `un conjunto de interfaces y clases que representan distintos modos de agrupar objetos`, según distintas políticas de manejo de memoria o acceso a ellos.
 
 
 
